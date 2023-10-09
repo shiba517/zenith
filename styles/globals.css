@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.test {
+    width: fit-content;
+    width: 100svw;
+}
